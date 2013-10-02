@@ -1,0 +1,79 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+	   {
+        "type": "png",
+        "defName": "IMAGE_BACKGROUND",
+        "file": "images/background.png"
+        },
+		{
+	        "type": "png",
+	        "defName": "IMAGE_SUN",
+	        "file": "images/sun.png"
+	    },
+		{
+	        "type": "png",
+	        "defName": "IMAGE_RAIN",
+	        "file": "images/rain.png"
+	    },
+		{
+	        "type": "png",
+	        "defName": "IMAGE_CLOUD",
+	        "file": "images/cloud.png"
+	    },
+		{
+	        "type": "png",
+	        "defName": "IMAGE_SUN_CLOUD",
+	        "file": "images/sun_cloud.png"
+	    }
+		,
+		{
+	        "type": "png",
+	        "defName": "IMAGE_WIND",
+	        "file": "images/wind.png"
+	    }
+		,
+		{
+	        "type": "png",
+	        "defName": "IMAGE_FOG",
+	        "file": "images/fog.png"
+	    }	
+		,
+		{
+	        "type": "png",
+	        "defName": "IMAGE_SNOW",
+	        "file": "images/snow.png"
+	    }
+		,
+		{
+	        "type": "png",
+	        "defName": "IMAGE_THUNDER",
+	        "file": "images/thunder.png"
+	    }	
+		,
+		{
+	        "type": "png",
+	        "defName": "IMAGE_BATTERY",
+	        "file": "images/battery.png"
+	    }	
+		,
+	    {
+        "type": "font",
+        "defName": "FONT_ROBOTO_CONDENSED_21",
+        "file": "fonts/Roboto-Condensed.ttf"
+        },
+
+        {
+        "type": "font",
+        "characterRegex": "[:0-9]",
+        "defName": "FONT_ROBOTO_BOLD_SUBSET_49",
+        "file": "fonts/Roboto-Bold.ttf"
+        },
+        {
+        "type": "png",
+        "defName": "APP_ICON",
+        "file": "images/app_icon.png"
+        }
+	  ]
+}
