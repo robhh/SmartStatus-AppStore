@@ -12,4 +12,4 @@ This code provides an example of how to communicate with Smartwatch+ and how to 
 * Currently playing song/artist
 * Next calendar appointment
 
-![SmartStatus watchapp](https://raw.github.com/robhh/SmartStatus/master/SmartStatus.jpg)
+![SmartStatus watchapp](https://raw.github.com/robhh/SmartStatus-AppStore/master/SmartStatus.jpg)
